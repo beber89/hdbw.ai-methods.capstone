@@ -1,0 +1,21 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+# notebook
+.ipynb_checkpoints/*
+
+# data
+data/*
+archive.zip
+ids.csv
+
+# tars
+ml-project.tar
